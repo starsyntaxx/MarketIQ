@@ -1,10 +1,6 @@
 # MarketIQ
 
-# AgriPulse — Problem Definition
-
 PROJECT DOCUMENT · VERSION 1.0
-
-# AgriPulse
 
 An Agricultural Market Intelligence and Food Price Shock Detection System
 
